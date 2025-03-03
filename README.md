@@ -1,7 +1,7 @@
 # plot_m4.5orcas_island_record_section
 Making a pretty record section for Orcas Island M4.5  March 3, 2025
 
-SAC files have been IR corrected to ACC and filtered 0.02 - 40 Hz.
+SAC files have been IR corrected to ACC and filtered 0.02 - 40 Hz.  All ugly traces have been hand removed.  This is all ENZ,HNZ,HHZ within 1.5degrees of origin.
 
 M4.5  2025-03-03T13:02:37   48.607  -122.804  z=16km
 
